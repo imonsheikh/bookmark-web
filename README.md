@@ -11,3 +11,5 @@ Currently, two official plugins are available:
 ## Live link
 
 ***surge:*** [https://bookmark-web.surge.sh/](https://bookmark-web.surge.sh/)
+
+**Netlify:** [https://bookmark-web-007.netlify.app/](https://bookmark-web-007.netlify.app/)
