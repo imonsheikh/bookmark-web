@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://images.unsplash.com/photo-1531177078181-ea27c3a67e2e",
+      "title": "Exploring the Power of React in 2024",
+      "author": "Sophia Brown",
+      "author_img": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+      "posted_date": "2024-01-15",
+      "reading_time": 6,
+      "hashtags": ["#React", "#JavaScript", "#Frontend"]
+    },
+    {
+      "id": 2,
+      "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "title": "How AI is Shaping the Future of Technology",
+      "author": "Michael Johnson",
+      "author_img": "https://images.unsplash.com/photo-1511367461989-f85a21fda167",
+      "posted_date": "2024-02-18",
+      "reading_time": 10,
+      "hashtags": ["#AI", "#FutureTech", "#Innovation"]
+    },
+    {
+      "id": 3,
+      "cover": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d",
+      "title": "10 Productivity Hacks for Remote Workers",
+      "author": "Emily Wilson",
+      "author_img": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "posted_date": "2024-03-05",
+      "reading_time": 7,
+      "hashtags": ["#Productivity", "#RemoteWork", "#Tips"]
+    },
+    {
+      "id": 4,
+      "cover": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853",
+      "title": "Blockchain for Beginners: A 2024 Guide",
+      "author": "David Clark",
+      "author_img": "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df",
+      "posted_date": "2024-03-20",
+      "reading_time": 9,
+      "hashtags": ["#Blockchain", "#Crypto", "#Fintech"]
+    },
+    {
+      "id": 5,
+      "cover": "https://images.unsplash.com/photo-1559028012-d3d4a9df2fc2",
+      "title": "The Rise of 5G Technology: What to Expect",
+      "author": "Jessica Taylor",
+      "author_img": "https://images.unsplash.com/photo-1499933374294-4584851497a5",
+      "posted_date": "2024-04-02",
+      "reading_time": 5,
+      "hashtags": ["#5G", "#Technology", "#Telecom"]
+    }
+  ]
+  
